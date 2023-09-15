@@ -96,20 +96,20 @@ export default function Footer() {
             {/* Social links */}
             <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
               <li>
-              <a className="m-2" href="https://t.me/blackbullchatofficial">
+              <a className="m-2" href="https://t.me/bankbitchat">
             <FontAwesomeIcon
               icon={faXTwitter}
               size="lg"
-              className="w-8 h-8 text-white hover:text-red-500"
+              className="w-8 h-8 text-white hover:text-[#AB2231]"
             />
           </a>
               </li>
               <li className="ml-4">
-              <a className="m-2" href="https://t.me/blackbullchatofficial">
+              <a className="m-2" href="https://t.me/bankbitchat">
             <FontAwesomeIcon
               icon={faTelegram}
               size="lg"
-              className="w-8 h-8 text-white hover:text-red-500"
+              className="w-8 h-8 text-white hover:text-[#AB2231]"
             />
           </a>
               </li>

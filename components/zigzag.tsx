@@ -25,8 +25,9 @@ export default function Zigzag() {
             revolutionary.
           </p> */}
           <p className="mb-2">
-            <p className={`font-bold text-xl md:text-2xl fire text-red-500 py-3`}>About Us</p>
-            "Black Bull: Igniting Potential, Embracing Possibilities 🌐🐂🚀" - Step into a realm where possibilities know no bounds with Black Bull, a crypto token that stands as a beacon of empowerment and innovation. Seamlessly merging cutting-edge blockchain technology with a strategic vision, Black Bull is not just a token, but a transformative journey towards exponential growth. Just as a bull charges fearlessly, Black Bull charges into the world of digital finance, poised to reshape norms, amplify potentials, and lead investors towards a future where the unexplored horizons of the crypto landscape are within reach.
+            <p className={`font-bold text-xl md:text-2xl fire text-[#AB2231] py-3`}>About Us</p>
+            
+BankBit represents the future of finance, seamlessly merging the reliability of traditional banking with the transparency, security, and efficiency of blockchain technology. In this digital financial ecosystem, transactions are instant and accessible worldwide, transcending borders and bureaucratic barriers. BankBit's integration with blockchain fortifies financial assets, ensuring trust in every transaction. Beyond offering effortless fund management, investments, and asset control, BankBit's mission is to redefine financial inclusivity, empowering individuals and businesses to take charge of their finances with unmatched convenience and security. It's a transformative journey where the power of traditional banking converges with the limitless possibilities of blockchain, ushering in a new era of financial innovation.
           </p>
           {/* <p className="font-bold text-xl md:text-2xl fire text-red-500">Controlled Scarcity for Real Value</p> */}
           {/* <p className="mb-2">

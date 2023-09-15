@@ -61,27 +61,27 @@ export default function MobileMenu() {
       >
         <ul className="bg-gray-800 px-4 py-2">
           <li>
-            <Link href="#home" className="flex font-medium w-full hover:text-red-500 text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#home" className="flex font-medium w-full hover:text-[#AB2231] text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Home
             </Link>
           </li>
           <li>
-            <Link href="#about" className="flex font-medium w-full hover:text-red-500 text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#about" className="flex font-medium w-full hover:text-[#AB2231] text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               About
             </Link>
           </li>
           <li>
-            <Link href="#roadmap" className="flex font-medium w-full hover:text-red-500 text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#roadmap" className="flex font-medium w-full hover:text-[#AB2231] text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Tokenomics
             </Link>
           </li>
           <li>
-            <Link href="https://t.me/blackbullchatofficial" className="flex font-medium w-full hover:text-red-500 text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="https://t.me/bankbitchat" className="flex font-medium w-full hover:text-[#AB2231] text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Telegram
             </Link>
           </li>
           <li>
-            <Link href="https://t.me/blackbullchatofficial" className="flex font-medium w-full hover:text-red-500 text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="https://t.me/bankbitchat" className="flex font-medium w-full hover:text-[#AB2231] text-white py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Twitter
             </Link>
           </li>

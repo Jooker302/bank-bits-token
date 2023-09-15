@@ -19,8 +19,8 @@ const architects_daughter = Architects_Daughter({
 })
 
 export const metadata = {
-  title: 'Black Bull Coin',
-  description: 'Black Bull Coin on DxSale',
+  title: 'Bank Bits',
+  description: 'Bank Bits on DxSale',
 }
 
 export default function RootLayout({

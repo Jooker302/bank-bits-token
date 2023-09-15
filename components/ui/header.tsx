@@ -24,7 +24,7 @@ export default function Header() {
               <li>
                 <Link
                   href="#home"
-                  className="font-medium hover:text-red-500 text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium hover:text-[#AB2231] text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Home
                 </Link>
@@ -33,7 +33,7 @@ export default function Header() {
               <li>
                 <Link
                   href="#about"
-                  className="font-medium hover:text-red-500 text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium hover:text-[#AB2231] text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   About
                 </Link>
@@ -42,7 +42,7 @@ export default function Header() {
               <li>
                 <Link
                   href="#roadmap"
-                  className="font-medium hover:text-red-500 text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium hover:text-[#AB2231] text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Tokenomics
                 </Link>
